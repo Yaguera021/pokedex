@@ -1,3 +1,31 @@
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/src/assets/fonts/PlayfairDisplay-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 500;
+  font-style: normal;
+  src: url("/src/assets/fonts/PlayfairDisplay-Medium.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 600;
+  font-style: normal;
+  src: url("/src/assets/fonts/PlayfairDisplay-SemiBold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/src/assets/fonts/PlayfairDisplay-Bold.ttf") format("ttf");
+}
+
 @tailwind base;
 
 @tailwind components;
